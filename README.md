@@ -11,9 +11,9 @@
 - ⚡ Personal fact: I'm a tech enthusiast and geek. Music is my hobby and I like to use podcasts and audiobooks as a form of leisure and learning.
 
 ### GitHub Stats and Activity 🕵️‍♂️
-<div style="dispaly: flex">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=macyuri94&&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=0d1117">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?line_height=20&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=0d1117&username=macyuri94&layout=compact">
+<div style="display: flex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macyuri94&&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=0d1117">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?line_height=20&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=0d1117&username=macyuri94&layout=compact">
 </div>
 
 ### Languages and Tools 🛠️
